@@ -1,0 +1,48 @@
+_repo: Kahden-muurahaisen-seikkailut_75290
+_version: 0.0.1
+alternative_title: Två myrors äventyr. Finnish
+contributor:
+  author_of_introduction:
+    agent_name: Reuter, O. M. (Odo Morannal)
+    alias: Reuter, Odo Morannal
+    birthdate: 1850
+    deathdate: 1913
+    gutenberg_agent_id: '57913'
+    url: http://www.gutenberg.org/2009/agents/57913
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Odo_Reuter
+    - https://fi.wikipedia.org/wiki/O._M._Reuter
+creator:
+  author:
+    agent_name: Hammarström, Nanny
+    aliases:
+    - Hammarstrom, Nanny
+    - Hammarstroem, Nanny
+    - Hammarström, Nanny Matilda
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '57924'
+    url: http://www.gutenberg.org/2009/agents/57924
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Nanny_Hammarstr%C3%B6m
+    - https://fi.wikipedia.org/wiki/Nanny_Hammarstr%C3%B6m
+description: ''
+gutenberg_issued: '2025-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75290'
+language: fi
+pgterms:marc905: 20241128003336hammarstrm
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bKust.Oy Helios, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ants -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Kahden muurahaisen seikkailut
+url: http://www.gutenberg.org/ebooks/75290
