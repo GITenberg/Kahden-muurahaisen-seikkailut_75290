@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Odo_Reuter
     - https://fi.wikipedia.org/wiki/O._M._Reuter
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hammarström, Nanny
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Nanny_Hammarstr%C3%B6m
     - https://fi.wikipedia.org/wiki/Nanny_Hammarstr%C3%B6m
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75290#Kahden-muurahaisen-seikkailut
 gutenberg_issued: '2025-02-04'
 gutenberg_type: Text
 identifiers:
